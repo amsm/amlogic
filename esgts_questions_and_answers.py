@@ -1,3 +1,9 @@
+"""
+by Artur Marques
+http(s)://arturmarques.com/
+
+Some examples of how to use am_logical_helper.py
+"""
 from am_logical_helper import LogicalHelper
 
 # _.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._.-^-._
