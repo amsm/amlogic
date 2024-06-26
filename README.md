@@ -1,1 +1,1 @@
-#A set of tools to perform model satisfaction verification, logical implication and logical equivalence checking.#
+#A set of tools to perform model satisfaction verification, logical implication and logical equivalence checking.
